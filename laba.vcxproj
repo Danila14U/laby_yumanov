@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="laba.cpp" />
+    <ClCompile Include="topchick.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="topchick.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
